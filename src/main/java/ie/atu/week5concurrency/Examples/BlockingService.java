@@ -1,4 +1,4 @@
-package ie.atu.week5concurrency;
+package ie.atu.week5concurrency.Examples;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
